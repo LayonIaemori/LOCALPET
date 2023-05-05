@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "778486673018",
+    "project_id": "localpet-aaaee",
+    "storage_bucket": "localpet-aaaee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778486673018:android:b4616e18dee5354e6f15c3",
+        "android_client_info": {
+          "package_name": "com.example.localpet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778486673018-kkdrjijesgcdurami1m3rbhfjedo1ivu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw6COxtgl8VdS_KI5eUw76-80G3GLsexI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778486673018-kkdrjijesgcdurami1m3rbhfjedo1ivu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
